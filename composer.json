@@ -1,6 +1,7 @@
 {
     "name": "kata-setup/php",
     "description": "Initial code to start TDD katas",
+    "license": "MIT",
     "require": {
         "php": ">=7.4"
     },
