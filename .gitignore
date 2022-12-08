@@ -1,0 +1,5 @@
+/vendor
+/coverage
+*.cache
+composer.lock
+.devcontainer
