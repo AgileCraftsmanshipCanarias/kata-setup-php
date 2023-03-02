@@ -6,7 +6,7 @@
         "php": ">=7.4"
     },
     "require-dev": {
-        "phpunit/phpunit": "9.6.0",
+        "phpunit/phpunit": "10.0.14",
         "infection/codeception-adapter": "0.4.1",
         "infection/infection": "0.26.19"
     },
