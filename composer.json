@@ -8,7 +8,7 @@
     "require-dev": {
         "phpunit/phpunit": "10.3.4",
         "infection/codeception-adapter": "0.4.1",
-        "infection/infection": "0.27.0"
+        "infection/infection": "0.27.2"
     },
     "autoload": {
         "psr-4": {
